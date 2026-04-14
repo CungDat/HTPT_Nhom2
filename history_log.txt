@@ -1,0 +1,802 @@
+[2026-04-13 22:50:44] HỆ THỐNG: Server bắt đầu hoạt động.
+[2026-04-13 23:06:57] HỆ THỐNG: Client 1 đã kết nối từ ('26.253.119.99', 65362)
+[2026-04-13 23:08:41] HỆ THỐNG: Client 2 đã kết nối từ ('26.238.157.111', 61214)
+[2026-04-13 23:09:03] HỆ THỐNG: Client 3 đã kết nối từ ('26.89.6.23', 58933)
+[2026-04-13 23:09:20] SỰ KIỆN: Client 3 đang WANTED (Clock: 1)
+[2026-04-13 23:09:31] SỰ KIỆN: Client 2 đang WANTED (Clock: 3)
+[2026-04-13 23:09:35] SỰ KIỆN: Client 1 đang WANTED (Clock: 5)
+[2026-04-13 23:11:09] HỆ THỐNG: Client 1 ngắt kết nối.
+[2026-04-13 23:11:12] HỆ THỐNG: Client 3 ngắt kết nối.
+[2026-04-13 23:11:57] HỆ THỐNG: Client 1 đã kết nối từ ('26.253.119.99', 54751)
+[2026-04-13 23:12:06] HỆ THỐNG: Client 2 đã kết nối từ ('26.238.157.111', 53100)
+[2026-04-13 23:12:15] HỆ THỐNG: Client 3 đã kết nối từ ('26.89.6.23', 58470)
+[2026-04-13 23:12:19] SỰ KIỆN: Client 1 đang WANTED (Clock: 1)
+[2026-04-13 23:12:19] SỰ KIỆN: Client 1 đã HELD (Clock: 4)
+[2026-04-13 23:12:19] FILE: Client 1 đã lấy nội dung file (Clock: 4)
+[2026-04-13 23:12:28] SỰ KIỆN: Client 2 đang WANTED (Clock: 3)
+[2026-04-13 23:18:41] HỆ THỐNG: Client 1 ngắt kết nối.
+[2026-04-13 23:20:12] HỆ THỐNG: Client 1 đã kết nối.
+[2026-04-13 23:21:38] HỆ THỐNG: Client 2 đã kết nối.
+[2026-04-13 23:21:49] HỆ THỐNG: Client 3 đã kết nối.
+[2026-04-13 23:21:55] SỰ KIỆN: Client 1 xin quyền (Clock: 1)
+[2026-04-13 23:21:55] FILE: Đã gửi nội dung cho Client 1
+[2026-04-13 23:21:58] SỰ KIỆN: Client 2 xin quyền (Clock: 3)
+[2026-04-13 23:22:17] FILE: Client 1 đã cập nhật file (Clock: 6)
+[2026-04-13 23:22:17] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:22:17] FILE: Client 2 đã cập nhật file (Clock: 8)
+[2026-04-13 23:22:17] SỰ KIỆN: Client 2 xin quyền (Clock: 9)
+[2026-04-13 23:22:17] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:22:41] FILE: Client 2 đã cập nhật file (Clock: 13)
+[2026-04-13 23:22:52] SỰ KIỆN: Client 3 xin quyền (Clock: 11)
+[2026-04-13 23:22:52] FILE: Đã gửi nội dung cho Client 3
+[2026-04-13 23:23:23] FILE: Client 3 đã cập nhật file (Clock: 16)
+[2026-04-13 23:23:26] SỰ KIỆN: Client 1 xin quyền (Clock: 13)
+[2026-04-13 23:23:26] FILE: Đã gửi nội dung cho Client 1
+[2026-04-13 23:23:43] FILE: Client 1 đã cập nhật file (Clock: 19)
+[2026-04-13 23:24:54] SỰ KIỆN: Client 1 xin quyền (Clock: 20)
+[2026-04-13 23:24:54] SỰ KIỆN: Client 2 xin quyền (Clock: 22)
+[2026-04-13 23:24:54] FILE: Đã gửi nội dung cho Client 1
+[2026-04-13 23:24:55] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:25:11] FILE: Client 1 đã cập nhật file (Clock: 25)
+[2026-04-13 23:25:22] FILE: Client 2 đã cập nhật file (Clock: 27)
+[2026-04-13 23:25:24] SỰ KIỆN: Client 2 xin quyền (Clock: 28)
+[2026-04-13 23:25:24] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:25:30] SỰ KIỆN: Client 1 xin quyền (Clock: 30)
+[2026-04-13 23:25:44] FILE: Client 2 đã cập nhật file (Clock: 33)
+[2026-04-13 23:25:44] FILE: Đã gửi nội dung cho Client 1
+[2026-04-13 23:25:45] FILE: Client 1 đã cập nhật file (Clock: 35)
+[2026-04-13 23:25:45] SỰ KIỆN: Client 1 xin quyền (Clock: 36)
+[2026-04-13 23:25:46] FILE: Đã gửi nội dung cho Client 1
+[2026-04-13 23:25:46] FILE: Client 1 đã cập nhật file (Clock: 40)
+[2026-04-13 23:25:46] SỰ KIỆN: Client 1 xin quyền (Clock: 41)
+[2026-04-13 23:25:46] FILE: Đã gửi nội dung cho Client 1
+[2026-04-13 23:25:46] FILE: Client 1 đã cập nhật file (Clock: 45)
+[2026-04-13 23:25:46] SỰ KIỆN: Client 1 xin quyền (Clock: 46)
+[2026-04-13 23:25:46] FILE: Đã gửi nội dung cho Client 1
+[2026-04-13 23:25:59] FILE: Client 1 đã cập nhật file (Clock: 50)
+[2026-04-13 23:26:03] SỰ KIỆN: Client 1 xin quyền (Clock: 51)
+[2026-04-13 23:26:03] FILE: Đã gửi nội dung cho Client 1
+[2026-04-13 23:26:19] SỰ KIỆN: Client 2 xin quyền (Clock: 53)
+[2026-04-13 23:26:34] FILE: Client 1 đã cập nhật file (Clock: 56)
+[2026-04-13 23:26:35] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:26:35] FILE: Client 2 đã cập nhật file (Clock: 58)
+[2026-04-13 23:26:35] SỰ KIỆN: Client 2 xin quyền (Clock: 59)
+[2026-04-13 23:26:35] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:26:35] FILE: Client 2 đã cập nhật file (Clock: 63)
+[2026-04-13 23:27:00] SỰ KIỆN: Client 2 xin quyền (Clock: 64)
+[2026-04-13 23:27:01] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:27:13] FILE: Client 2 đã cập nhật file (Clock: 68)
+[2026-04-13 23:27:18] SỰ KIỆN: Client 3 xin quyền (Clock: 66)
+[2026-04-13 23:27:19] FILE: Đã gửi nội dung cho Client 3
+[2026-04-13 23:27:33] FILE: Client 3 đã cập nhật file (Clock: 71)
+[2026-04-13 23:27:38] SỰ KIỆN: Client 2 xin quyền (Clock: 70)
+[2026-04-13 23:27:38] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:28:05] FILE: Client 2 đã cập nhật file (Clock: 74)
+[2026-04-13 23:28:07] SỰ KIỆN: Client 3 xin quyền (Clock: 73)
+[2026-04-13 23:28:08] FILE: Đã gửi nội dung cho Client 3
+[2026-04-13 23:28:35] FILE: Client 3 đã cập nhật file (Clock: 77)
+[2026-04-13 23:28:38] SỰ KIỆN: Client 1 xin quyền (Clock: 75)
+[2026-04-13 23:28:38] FILE: Đã gửi nội dung cho Client 1
+[2026-04-13 23:28:54] FILE: Client 1 đã cập nhật file (Clock: 80)
+[2026-04-13 23:29:02] SỰ KIỆN: Client 3 xin quyền (Clock: 79)
+[2026-04-13 23:29:02] SỰ KIỆN: Client 2 xin quyền (Clock: 81)
+[2026-04-13 23:29:02] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:29:03] FILE: Đã gửi nội dung cho Client 3
+[2026-04-13 23:29:39] FILE: Client 2 đã cập nhật file (Clock: 86)
+[2026-04-13 23:29:39] FILE: Client 3 đã cập nhật file (Clock: 85)
+[2026-04-13 23:29:47] SỰ KIỆN: Client 1 xin quyền (Clock: 83)
+[2026-04-13 23:29:48] FILE: Đã gửi nội dung cho Client 1
+[2026-04-13 23:30:03] FILE: Client 1 đã cập nhật file (Clock: 90)
+[2026-04-13 23:32:01] SỰ KIỆN: Client 1 xin quyền (Clock: 91)
+[2026-04-13 23:32:01] FILE: Đã gửi nội dung cho Client 1
+[2026-04-13 23:32:10] SỰ KIỆN: Client 2 xin quyền (Clock: 93)
+[2026-04-13 23:32:29] FILE: Client 1 đã cập nhật file (Clock: 96)
+[2026-04-13 23:32:29] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:32:29] FILE: Client 2 đã cập nhật file (Clock: 98)
+[2026-04-13 23:32:29] SỰ KIỆN: Client 2 xin quyền (Clock: 99)
+[2026-04-13 23:32:29] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:32:29] FILE: Client 2 đã cập nhật file (Clock: 103)
+[2026-04-13 23:32:29] SỰ KIỆN: Client 2 xin quyền (Clock: 104)
+[2026-04-13 23:32:30] FILE: Đã gửi nội dung cho Client 2
+[2026-04-13 23:32:30] FILE: Client 2 đã cập nhật file (Clock: 108)
+[23:52:23.404] HỆ THỐNG: Client 2 đã kết nối.
+[23:52:25.615] HỆ THỐNG: Client 3 đã kết nối.
+[23:52:27.009] HỆ THỐNG: Client 1 đã kết nối.
+[23:52:34.630] YÊU CẦU: Client 2 xin vào miền găng.
+[23:52:34.631] CẤP QUYỀN: Cho phép Client 2 vào.
+[23:56:04.049] HỆ THỐNG: Client 1 đã kết nối.
+[23:56:14.457] HỆ THỐNG: Client 3 đã kết nối.
+[23:56:44.662] HỆ THỐNG: Client 2 đã kết nối.
+[23:56:47.468] YÊU CẦU: Client 2 xin vào miền găng.
+[23:56:47.469] CẤP QUYỀN: Cho phép Client 2 vào.
+[23:56:57.709] YÊU CẦU: Client 1 xin vào miền găng.
+[23:56:57.710] HÀNG ĐỢI: Client 1 phải đợi (Hàng đợi: [1])
+[23:57:06.485] YÊU CẦU: Client 3 xin vào miền găng.
+[23:57:06.485] HÀNG ĐỢI: Client 3 phải đợi (Hàng đợi: [1, 3])
+[23:57:22.654] GIẢI PHÓNG: Client 2 đã xong việc.
+[23:57:22.655] CẤP QUYỀN TIẾP: Cho phép Client 1 từ hàng đợi.
+[23:57:37.538] GIẢI PHÓNG: Client 1 đã xong việc.
+[23:57:37.539] CẤP QUYỀN TIẾP: Cho phép Client 3 từ hàng đợi.
+[23:57:57.672] YÊU CẦU: Client 2 xin vào miền găng.
+[23:57:57.673] HÀNG ĐỢI: Client 2 phải đợi (Hàng đợi: [2])
+[23:58:05.687] GIẢI PHÓNG: Client 3 đã xong việc.
+[23:58:05.689] CẤP QUYỀN TIẾP: Cho phép Client 2 từ hàng đợi.
+[00:04:21.845] HỆ THỐNG: Client 1 đã kết nối.
+[00:04:31.574] HỆ THỐNG: Client 3 đã kết nối.
+[00:04:32.451] CLIENT 3: Client 3 đang WANTED, đợi Token
+[00:04:49.778] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:04:49.779] LỖI: Node 2 chưa online, Token bị kẹt tại Server!
+[00:04:54.841] HỆ THỐNG: Client 2 đã kết nối.
+[00:07:51.804] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:07:52.365] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:07:52.517] CLIENT 3: Client 3 đã HELD (Có Token)
+[00:08:19.157] CLIENT 1: Client 1 đang WANTED, đợi Token
+[00:08:20.002] CLIENT 2: Client 2 đang WANTED, đợi Token
+[00:08:35.928] FILE: Client 3 đã cập nhật file.
+[00:08:36.108] CLIENT 3: Client 3 đã RELEASED. Chuyền Token.
+[00:08:36.434] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:08:36.485] CLIENT 1: Client 1 đã HELD (Có Token)
+[00:08:47.524] FILE: Client 1 đã cập nhật file.
+[00:08:47.525] CLIENT 1: Client 1 đã RELEASED. Chuyền Token.
+[00:08:48.032] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:08:48.120] CLIENT 2: Client 2 đã HELD (Có Token)
+[00:09:04.603] FILE: Client 2 đã cập nhật file.
+[00:09:04.719] CLIENT 2: Client 2 đã RELEASED. Chuyền Token.
+[00:09:05.219] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:06.007] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:06.540] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:07.237] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:07.932] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:08.455] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:09.012] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:09.733] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:10.267] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:10.822] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:11.497] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:12.030] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:12.582] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:13.254] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:13.791] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:14.348] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:15.014] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:15.555] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:16.103] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:16.774] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:17.322] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:17.907] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:18.566] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:19.084] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:19.671] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:20.377] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:20.938] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:21.533] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:22.194] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:22.724] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:23.292] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:23.952] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:24.487] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:25.051] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:25.711] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:26.248] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:26.817] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:27.475] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:28.010] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:28.575] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:29.257] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:29.777] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:30.332] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:31.020] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:31.536] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:32.092] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:32.785] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:33.300] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:33.853] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:34.544] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:35.061] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:35.611] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:36.299] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:36.822] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:37.377] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:38.062] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:38.585] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:39.137] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:39.820] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:40.347] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:41.042] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:41.731] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:42.261] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:42.803] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:43.495] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:44.024] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:44.614] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:45.309] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:45.831] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:46.374] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:47.062] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:47.597] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:48.137] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:48.822] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:49.360] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:49.947] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:50.632] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:51.172] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:51.768] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:52.446] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:52.987] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:53.569] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:54.208] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:54.747] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:55.329] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:56.021] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:56.561] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:57.139] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:57.785] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:09:58.325] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:09:58.899] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:09:59.544] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:00.088] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:00.659] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:01.354] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:01.900] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:02.463] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:03.173] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:03.713] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:04.280] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:04.947] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:05.480] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:06.038] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:06.699] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:07.246] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:07.797] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:08.466] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:09.007] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:09.606] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:10.288] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:10.823] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:11.367] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:12.045] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:12.550] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:13.125] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:13.797] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:14.311] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:14.886] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:15.555] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:16.072] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:16.648] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:17.323] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:17.834] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:18.406] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:19.061] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:19.595] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:20.161] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:20.828] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:21.357] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:21.922] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:22.635] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:23.169] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:23.731] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:24.395] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:24.932] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:25.495] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:26.156] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:26.694] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:27.255] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:27.905] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:28.453] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:29.008] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:29.667] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:30.215] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:30.771] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:31.433] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:31.976] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:32.531] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:33.190] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:33.738] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:34.289] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:34.951] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:35.499] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:36.047] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:36.715] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:37.258] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:37.856] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:38.524] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:39.036] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:39.625] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:40.284] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:40.797] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:41.375] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:42.045] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:42.558] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:43.133] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:43.816] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:44.323] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:44.891] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:45.569] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:46.084] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:46.658] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:47.326] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:47.849] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:48.413] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:49.086] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:49.614] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:50.176] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:50.851] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:51.382] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:51.933] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:52.618] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:53.145] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:53.694] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:54.371] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:54.906] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:55.458] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:56.130] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:56.668] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:57.263] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:57.943] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:10:58.482] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:10:59.021] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:10:59.701] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:00.244] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:00.839] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:01.515] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:02.020] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:02.593] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:03.272] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:03.781] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:04.351] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:05.038] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:05.544] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:06.110] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:06.800] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:07.307] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:07.869] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:08.556] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:09.071] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:09.631] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:10.320] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:10.833] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:11.419] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:12.071] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:12.594] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:13.152] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:13.813] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:14.358] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:14.910] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:15.558] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:16.070] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:16.619] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:17.280] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:17.833] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:18.430] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:19.132] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:19.646] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:20.188] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:20.846] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:21.361] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:21.948] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:22.605] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:23.125] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:23.709] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:24.366] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:24.888] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:25.466] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:26.126] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:26.661] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:27.225] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:27.889] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:28.425] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:28.990] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:29.654] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:30.188] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:30.743] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:31.413] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:31.953] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:32.502] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:33.181] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:33.723] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:34.516] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:35.310] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:35.842] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:36.441] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:37.182] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:37.708] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:38.310] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:39.153] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:39.671] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:40.245] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:40.905] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:41.436] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:42.005] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:42.668] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:43.202] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:43.763] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:44.441] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:44.967] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:45.520] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:46.247] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:46.785] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:47.329] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:47.998] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:48.548] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:49.089] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:49.758] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:50.262] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:50.796] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:51.469] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:51.975] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:52.565] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:53.231] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:53.738] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:54.316] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:55.002] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:55.551] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:56.134] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:56.811] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:57.323] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:57.889] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:11:58.570] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:11:59.094] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:11:59.652] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:00.334] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:00.888] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:01.460] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:02.145] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:02.661] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:03.221] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:03.911] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:04.433] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:04.986] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:05.670] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:06.199] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:06.789] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:07.481] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:08.015] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:08.598] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:09.302] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:09.838] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:10.412] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:11.113] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:11.660] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:12.222] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:12.914] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:13.426] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:14.003] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:14.698] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:15.238] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:15.788] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:16.458] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:17.003] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:17.609] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:18.272] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:18.825] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:19.415] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:20.119] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:20.651] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:21.240] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:21.922] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:22.475] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:23.026] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:23.714] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:24.239] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:24.784] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:25.481] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:26.001] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:26.593] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:27.290] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:27.815] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:28.372] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:29.050] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:29.577] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:30.165] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:30.858] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:31.396] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:31.980] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:32.667] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:33.209] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:33.793] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:34.479] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:35.025] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:35.593] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:36.287] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:36.837] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:37.402] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:38.100] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:38.652] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:39.223] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:39.920] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:40.467] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:41.021] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:41.671] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:42.230] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:42.783] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:43.431] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:43.950] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:44.490] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:45.141] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:45.666] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:46.258] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:46.902] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:47.428] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:48.009] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:48.659] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:49.204] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:49.770] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:50.469] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:51.019] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:51.578] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:52.280] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:52.831] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:53.388] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:54.041] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:54.593] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:55.148] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:55.803] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:56.354] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:56.911] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:57.559] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:58.070] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:12:58.626] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:12:59.269] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:12:59.789] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:00.382] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:01.027] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:01.551] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:02.140] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:02.808] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:03.315] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:03.897] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:04.580] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:05.129] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:05.714] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:06.383] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:06.893] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:07.466] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:08.145] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:08.658] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:09.227] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:09.910] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:10.423] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:10.987] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:11.664] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:12.202] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:12.799] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:13.489] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:14.020] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:14.608] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:15.300] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:15.839] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:16.419] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:17.098] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:17.651] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:18.227] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:18.874] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:19.380] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:19.996] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:20.694] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:21.245] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:21.794] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:22.446] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:22.955] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:23.505] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:24.154] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:24.670] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:25.218] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:25.862] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:26.397] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:26.977] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:27.623] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:28.161] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:28.734] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:29.387] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:29.926] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:30.494] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:31.146] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:31.690] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:32.264] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:32.939] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:33.456] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:34.015] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:34.697] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:35.222] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:35.775] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:36.458] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:36.987] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:37.535] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:38.226] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:38.768] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:39.344] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:40.030] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:40.541] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:41.106] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:41.792] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:42.311] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:42.886] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:43.552] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:44.091] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:44.630] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:45.312] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:45.858] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:46.436] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:47.124] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:47.634] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:48.193] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:48.884] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:49.395] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:49.963] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:50.650] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:51.160] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:51.714] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:52.404] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:52.935] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:53.524] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:54.217] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:54.749] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:55.334] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:56.027] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:56.567] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:57.152] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:57.854] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:13:58.389] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:13:58.954] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:13:59.596] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:00.116] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:00.662] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:01.304] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:01.831] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:02.419] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:03.063] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:03.597] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:04.180] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:04.830] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:05.357] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:05.937] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:06.586] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:07.120] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:07.702] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:08.352] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:08.880] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:09.465] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:10.121] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:10.644] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:11.219] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:11.937] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:12.458] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:13.032] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:13.704] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:14.223] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:14.790] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:15.468] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:15.988] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:16.550] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:17.230] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:17.762] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:18.311] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:18.989] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:19.525] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:20.069] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:20.765] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:21.289] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:22.131] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:22.812] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:23.357] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:23.943] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:24.622] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:25.171] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:25.755] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:26.432] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:26.934] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:27.622] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:28.392] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:28.900] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:29.879] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:30.657] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:31.170] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:31.839] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:32.619] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:33.135] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:34.004] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:34.783] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:35.300] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:35.964] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:36.946] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:37.474] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:38.334] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:39.111] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:39.640] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:40.300] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:41.079] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:41.603] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:42.254] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:43.040] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:43.569] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:44.215] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:45.000] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:45.533] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:46.224] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:47.063] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:47.600] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:48.293] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:49.079] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:49.617] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:50.199] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:50.889] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:51.434] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:52.016] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:52.844] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:53.363] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:53.917] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:54.606] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:55.127] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:55.680] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:56.374] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:56.895] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:57.438] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:58.079] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:14:58.609] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:14:59.204] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:14:59.893] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:00.422] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:01.009] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:01.702] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:02.234] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:02.819] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:03.463] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:03.996] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:04.575] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:05.218] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:05.758] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:06.333] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:06.999] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:07.522] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:08.093] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:08.757] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:09.284] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:09.855] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:10.515] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:11.065] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:11.614] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:12.307] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:12.830] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:13.376] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:14.110] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:14.641] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:15.196] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:16.159] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:16.706] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:17.253] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:17.922] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:18.471] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:19.017] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:19.756] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:20.282] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:20.831] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:21.494] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:22.043] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:22.638] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:23.310] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:23.854] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:24.398] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:25.081] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:25.616] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:26.159] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:26.831] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:27.378] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:28.025] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:28.786] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:29.291] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:29.884] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:30.636] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:31.159] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:31.745] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:32.412] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:32.922] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:33.514] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:34.163] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:34.684] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:35.276] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:35.975] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:36.497] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:37.200] CHUYỀN THẺ: Node 2 ---> Node 3
+[00:15:37.883] CHUYỀN THẺ: Node 3 ---> Node 1
+[00:15:38.409] CHUYỀN THẺ: Node 1 ---> Node 2
+[00:15:38.993] CHUYỀN THẺ: Node 2 ---> Node 3
